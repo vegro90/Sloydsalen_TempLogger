@@ -1,0 +1,1 @@
+Sloydsalen_TempLogger
